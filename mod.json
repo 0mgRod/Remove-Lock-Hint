@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.20",
+	"version": "v1.0.0-beta1",
+	"gd": "*",
+	"id": "omgrod.remove_lock_hint",
+	"name": "Remove Lock Hint",
+	"developer": "OmgRod",
+	"description": ""
+}
