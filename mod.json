@@ -1,9 +1,15 @@
 {
 	"geode": "2.0.0-beta.20",
-	"version": "v1.0.0-beta1",
-	"gd": "*",
+	"version": "v1.0.0-beta.1",
+	"gd": {
+        "win": "2.204",
+        "android": "2.205",
+        "mac": "2.200"
+    },
 	"id": "omgrod.remove_lock_hint",
 	"name": "Remove Lock Hint",
 	"developer": "OmgRod",
-	"description": ""
+	"description": "This mod removes the lock hint in the garage.",
+	"repository": "https://github.com/0mgRod/Remove-Lock-Hint/",
+	"tags": ["garage", "remove", "hint"]
 }

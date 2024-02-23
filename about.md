@@ -1,3 +1,4 @@
-# Template Mod
+# Remove Lock Hint
 
-Edit about.md to change this
+This mod removes the lock hint in the garage.
+
